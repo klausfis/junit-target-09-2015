@@ -3,4 +3,4 @@ Projeto para exemplos e discussões sobre a turma da target de junit da data 13/
 
 Para instalação do plugin do TESTNG para eclipse seguir o link abaixo.
 http://testng.org/doc/download.html
-<a>http://testng.org/doc/download.html</a>
+<b>http://testng.org/doc/download.html</b>
