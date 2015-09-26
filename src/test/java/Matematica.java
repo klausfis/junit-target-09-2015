@@ -5,7 +5,7 @@ public class Matematica {
 	
 	@Test
 	public void soma() {
-		Assert.assertEquals(2+3, 4);
+		Assert.assertEquals(2+2, 4);
 	}
 
 }
